@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "815861784712",
+    "firebase_url": "https://pickupbeta.firebaseio.com",
+    "project_id": "pickupbeta",
+    "storage_bucket": "pickupbeta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815861784712:android:dc40c7afa491e77e15bf3d",
+        "android_client_info": {
+          "package_name": "com.ksabri.pickupbeta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815861784712-e77lkodv856i5v5lb728hblh503l0ufm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ksabri.pickupbeta",
+            "certificate_hash": "6596bb6be259a856ca8254f1047dd73bd8e31867"
+          }
+        },
+        {
+          "client_id": "815861784712-287sdjmsark5jumtsi79sq7mvavj8198.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvMY9oQwYsGyeYMWwQHAuu7pXIfAPDHE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815861784712-287sdjmsark5jumtsi79sq7mvavj8198.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

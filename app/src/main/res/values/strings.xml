@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">PickUp beta</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="on_board">WE DELIVER EVERY THING</string>
+    <string name="on_board_2">FAST AS LIGHTNING</string>
+    <string name="on_board_2grey">Tired of waiting. We can deliver anything you need as fast as possible.</string>
+    <string name="skip">Skip</string>
+    <string name="done">Done</string>
+    <string name="on_board_grey">You can deliver furniture,food, pets, clothes and electronics. You just press the button </string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="forget">Forgot password?</string>
+    <string name="loginwith">login with</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+    <string name="signup">Signup with E-mail</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="have_account">I already have an account</string>
+    <string name="sign_up">SignUp</string>
+    <string name="error_email_empty">E-mail is required</string>
+    <string name="error_first_name">First name is required</string>
+    <string name="error_last_name">Last name is required</string>
+    <string name="error_phone_number">Phone number is required</string>
+    <string name="error_password_required">Password is required</string>
+    <string name="password_too_short">Password should be at least 6 characters</string>
+    <string name="email_valid">please enter a valid E-mail</string>
+    <string name="email_used">This email has already been registered please sign in</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+</resources>
